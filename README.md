@@ -13,23 +13,17 @@
 const rohit = {
 pronouns: "he" | "him",
 location: "Haldwani, Uttarakhand",
-education: "B.Tech CSE @ GEHU | CGPA: 8.82",
+education: "B.Tech CSE @ GEHU",
 code: ["Python", "Java", "C++", "JavaScript", "Bash"],
 technologies: {
 devOps: ["Docker", "Jenkins", "Kubernetes", "GitHub Actions"],
-security: ["SonarQube", "Trivy", "OWASP", "Fernet Encryption"],
-backend: ["Flask", "Node.js", "REST APIs", "Gunicorn"],
+security: ["SonarQube", "Trivy", "OWASP"],
+backend: ["Flask", "Node.js", "REST APIs"],
 frontend: ["React.js", "HTML", "CSS"],
-databases: ["MySQL", "PostgreSQL", "SQLite"],
-cloud: ["Linux", "Oracle Cloud", "Google Cloud"]
+databases: ["MySQL", "PostgreSQL", "SQLite"]
 },
-architecture: ["Microservices", "CI/CD Pipelines", "Infrastructure as Code", "DevSecOps"],
-certifications: [
-"Oracle Cloud Infrastructure 2025 DevOps Professional",
-"Google Cloud Computing Foundations (Top 15%)",
-"Data Visualization - Tata Forage"
-],
-currentFocus: "Building production-ready applications with CI/CD pipelines and DevOps best practices",
+architecture: ["Microservices", "CI/CD", "DevSecOps"],
+currentFocus: "Building scalable apps with DevOps practices",
 funFact: "I automated my deployments so well, I forgot how to deploy manually! 🚀"
 }
 
