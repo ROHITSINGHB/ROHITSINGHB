@@ -1,56 +1,64 @@
-<h2 align="left">Hi 👋! My name is Rohit Singh and I'm a Computer Science Engineering Student, from Graphic Era Hill University</h2>
+## Hi, I'm Rohit Singh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-###
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RuM2xvZDNtaWdsbm54cHB4ODAyNGw4aW9xam9oZGR6ZWo2bXdxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="230">
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmR0ZnJrY3Q0YWE5a2tsMnB5a2hxdGZ1eG5rbmpuNHhtanJybG92YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"  />
+<p><em>B.Tech CSE Student at <a href="https://www.gehu.ac.in/">Graphic Era Hill University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Aspiring DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-###
+[![Linkedin: rohit-singh](https://img.shields.io/badge/-rohitsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-singh-27b77b263/)](https://www.linkedin.com/in/rohit-singh-27b77b263/)
+[![GitHub Rohit](https://img.shields.io/github/followers/ROHITSINGHB?label=follow&style=social)](https://github.com/ROHITSINGHB)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-</div>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-###
+const rohit = {
+pronouns: "he" | "him",
+location: "Haldwani, Uttarakhand",
+education: "B.Tech CSE @ GEHU | CGPA: 8.82",
+code: ["Python", "Java", "C++", "JavaScript", "Bash"],
+technologies: {
+devOps: ["Docker", "Jenkins", "Kubernetes", "GitHub Actions"],
+security: ["SonarQube", "Trivy", "OWASP", "Fernet Encryption"],
+backend: ["Flask", "Node.js", "REST APIs", "Gunicorn"],
+frontend: ["React.js", "HTML", "CSS"],
+databases: ["MySQL", "PostgreSQL", "SQLite"],
+cloud: ["Linux", "Oracle Cloud", "Google Cloud"]
+},
+architecture: ["Microservices", "CI/CD Pipelines", "Infrastructure as Code", "DevSecOps"],
+certifications: [
+"Oracle Cloud Infrastructure 2025 DevOps Professional",
+"Google Cloud Computing Foundations (Top 15%)",
+"Data Visualization - Tata Forage"
+],
+currentFocus: "Building production-ready applications with CI/CD pipelines and DevOps best practices",
+funFact: "I automated my deployments so well, I forgot how to deploy manually! 🚀"
+}
 
-<div align="left">
-  <a href="rohithitman9876@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/rohit-singh-27b77b263/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
+### 🔭 What I'm Working On
+
+- 🔐 Secure File Encryption System with Flask, Docker, and Jenkins pipeline
+- 🛡️ DevSecOps CI/CD pipeline integrating SonarQube, Trivy, and OWASP security scanning
+- 🎯 Building scalable applications with zero-downtime deployments
+- 📚 Preparing for roles at major tech companies
+
+### 🛠️ Tech Stack & Skills
+
+**Languages:** Python • Java • C++ • JavaScript • Bash  
+**DevOps:** Docker • Jenkins • Kubernetes • GitHub Actions • CI/CD  
+**Security:** SonarQube • Trivy • OWASP • Encryption  
+**Frameworks:** Flask • React.js • Node.js  
+**Databases:** MySQL • PostgreSQL • SQLite  
+**Cloud:** Linux • Oracle Cloud • Google Cloud
+
+### 🏆 Achievements
+
+- 🚀 Engineered CI/CD pipelines reducing deployment time by 25%
+- 🔒 Improved code quality by 30% using SonarQube integration
+- 🎓 Oracle Cloud Infrastructure 2025 Certified DevOps Professional
+- 📊 Top 15% in Google Cloud Computing Foundations - NPTEL
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with fellow developers and tech enthusiasts</b> so if you want to say <b>hi, I'll be happy to connect!</b> :)</em>
+
+---
+
+⭐️ From [Rohit Singh](https://github.com/ROHITSINGHB)
