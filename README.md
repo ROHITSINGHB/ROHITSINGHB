@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....Hi 👋! My name is Rohit Singh and I'm a Computer Science Engineering Student, from Graphic Era Hill University</h2>
+<h2 align="left">Hi 👋! My name is Rohit Singh and I'm a Computer Science Engineering Student, from Graphic Era Hill University</h2>
 
 ###
 
